@@ -1,0 +1,84 @@
+{
+  "Questions":[
+  {
+    "question":"Which gas is safe and an effective extinguisher for all confined fires",
+    "Answer1" :"A.Nitrogen dioxide",
+    "Answer2" :"B.Carbon dioxide",
+    "Answer3" :"C.Sulphur dioxide",
+    "Answer4" :"D.Nitrous Oxide",
+    "choice" : 2
+  },
+    {
+      "question": "The, southernmost point of peninsular India, that is, Kanyakumari, is",
+      "Answer1" :"A.north of Tropic of Cancer",
+      "Answer2" :"B.south of the Equator",
+      "Answer3" :"C.south of the Capricorn",
+      "Answer4" :"D.north of the Equator",
+      "choice"  : 4
+    },
+    {
+      "question":"The pass located at the southern end of the Nilgiri Hills in south India is called",
+      "Answer1" :"A.the Palghat gap",
+      "Answer2" :"B.the Bhorghat pass",
+      "Answer3" :"C.the Thalgat pass",
+      "Answer4" :"D.the Bolan pass",
+      "choice"  : 1
+    },
+    {
+      "question":"The Yarlung Zangbo river, in India, is known as",
+      "Answer1" :"A.Ganga",
+      "Answer2" :"B.Indus",
+      "Answer3" :"C.Brahmaputra",
+      "Answer4" :"D.Mahanadi",
+      "choice"  : 3
+    },
+    {
+      "question":"The Salal Project is on the river",
+      "Answer1" :"A.Chenab",
+      "Answer2" :"B.Jhelum",
+      "Answer3" :"C.Ravi",
+      "Answer4" :"D.Sutlej",
+      "choice"  :1
+    },
+    {
+      "question":"The India's highest annual rainfall is reported at",
+      "Answer1" :"A.Namchi, Sikkim",
+      "Answer2" :"B.Churu, Rajasthan",
+      "Answer3" :"C.Mawsynram, Meghalaya",
+      "Answer4" :"D.Chamba, Himachal Pradesh",
+      "choice"  :3
+    },
+    {
+      "question":"What is the predominant type of Indian agriculture?",
+      "Answer1" :"A.Commercial agriculture",
+      "Answer2" :"B.Extensive agriculture",
+      "Answer3" :"C.plantation agriculture",
+      "Answer4" :"D.subsistence agriculture",
+      "choice"  :4
+    },
+    {
+      "question":"The Radcliffe line is a boundary between",
+      "Answer1" :"A.India and Pakistan",
+      "Answer2" :"B.India and China",
+      "Answer3" :"C.India and Myanmar",
+      "Answer4" :"D.India and Afghanistan",
+      "choice"  :1
+    },
+    {
+      "question":"Which of the following has a potential for harnessing of tidal energy in India?",
+      "Answer1" :"A.Gulf of Cambay",
+      "Answer2" :"B.Gulf of Mannar",
+      "Answer3" :"C.Backwaters of Kerala",
+      "Answer4" :"D.Chilka lake",
+      "choice"  :1
+    },
+    {
+      "question":"The state having a largest area of forest cover in India is",
+      "Answer1" :"A.Arunachal Pradesh",
+      "Answer2" :"B.Haryana",
+      "Answer3" :"C.Madhya Pradesh",
+      "Answer4" :"D.Assam",
+      "choice"  :3
+    }
+  ]
+}

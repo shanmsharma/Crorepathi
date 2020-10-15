@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Crorepathi</string>
+
+   <string-array name="Questions">
+       <item>The southernmost point of peninsular India, that is, Kanyakumari, is</item>
+       <item>The pass located at the southern end of the Nilgiri Hills in south India is called</item>
+   </string-array>
+
+
+   <string-array name="QueAns1">
+       <item>north of Tropic of Cancer</item>
+       <item>south of the Equator</item>
+       <item>south of the Capricorn</item>
+       <item>north of the Equator</item>
+   </string-array>
+    <string-array name="QueAns2">
+        <item>the Palghat gap</item>
+        <item>the Bhorghat pass</item>
+        <item>the Thalgat pass</item>
+        <item>the Bolan pass</item>
+
+    </string-array>
+
+ </resources>

@@ -1,0 +1,20 @@
+{
+  "Questions":[
+    {
+    "question": "The pass located at the southern end of the Nilgiri Hills in south India is called",
+    "answer_1": "the Palghat gap",
+    "answer_2": "the Bhorghat pass",
+    "answer_3": "the Thalgat pass",
+    "answer_4": "the Bolan pass",
+    "choice": 1
+    },
+    {
+    "Question": "The southernmost point of peninsular India, that is, Kanyakumari, is",
+    "Answer_1": "north of Tropic of Cancer",
+    "Answer_2": "south of the Equator",
+    "Answer_3": "south of the Capricorn",
+    "Answer_4": "north of the Equator",
+    "Choice": 4
+    }
+  ]
+}

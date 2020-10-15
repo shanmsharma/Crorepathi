@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/A_textView"
+            android:layout_width="24dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="A"></TextView>
+
+        <ProgressBar
+            android:id="@+id/A"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="275dp"
+            android:layout_height="match_parent"
+            android:progress="25"></ProgressBar>
+        <TextView
+            android:id="@+id/A_Percent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="100%"></TextView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/B_textView"
+            android:layout_width="24dp"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="B"></TextView>
+
+        <ProgressBar
+            android:id="@+id/B"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="275dp"
+            android:layout_height="match_parent"
+            android:progress="25"></ProgressBar>
+        <TextView
+            android:id="@+id/B_percent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="100%"></TextView>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="B"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/C_textView"
+            android:layout_width="24dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="C"></TextView>
+
+        <ProgressBar
+            android:id="@+id/C"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="275dp"
+            android:layout_height="wrap_content"
+            android:progress="25"></ProgressBar>
+
+        <TextView
+            android:id="@+id/C_percent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="100%"></TextView>
+
+    </LinearLayout>
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/D_textView"
+            android:layout_width="24dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="D"></TextView>
+
+        <ProgressBar
+            android:id="@+id/D"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="275dp"
+            android:layout_height="match_parent"
+            android:progress="25"></ProgressBar>
+    <TextView
+        android:id="@+id/D_percent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="100%"></TextView>
+</LinearLayout>
+
+
+
+
+</LinearLayout>
